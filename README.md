@@ -1,1 +1,1 @@
-# miata
+[Wiki](https://github.com/alex-aleyan/miata/wiki)
